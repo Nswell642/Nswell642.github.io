@@ -1,5 +1,6 @@
 ---
-title: "Nswell642.github.io"
+title: "Nicholas Wells"
+image: 31a9e761c06687cc241f5dd84167bdba.gif
 ---
 
 This is a Quarto website.
