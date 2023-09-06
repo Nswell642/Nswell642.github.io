@@ -1,6 +1,6 @@
 ---
 title: "Nicholas Wells"
-image: 31a9e761c06687cc241f5dd84167bdba.gif
+image: Milhouse.gif
 ---
 
 This is a Quarto website.
